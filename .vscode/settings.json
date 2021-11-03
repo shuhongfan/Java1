@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "day01/src",
+        "studentManager/src/com/shf"
+    ]
+}
